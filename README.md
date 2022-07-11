@@ -1,7 +1,7 @@
 
 # ST custom build
 
-## Requirements
+## Dependencies
 + base-devel
 + fontconfig
 + libX11
